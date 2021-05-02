@@ -16,5 +16,7 @@
 
 <resources>
     <!-- Device specific doze package -->
+    <string name="maintainer_name">NaryVip(Naresh Kumar)</string>
+    <string name="maintainer_telegram_username">https://github.com/Nary-Vip</string>
     <string name="config_customDozePackage">org.lineageos.settings/org.lineageos.settings.doze.DozeSettingsActivity</string>
 </resources>
