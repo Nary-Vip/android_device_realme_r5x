@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_r5x.mk
+    $(LOCAL_DIR)/dot_r5x.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_r5x-user \
-    lineage_r5x-userdebug \
-    lineage_r5x-eng
+    dot_r5x-user \
+    dot_r5x-userdebug \
+    dot_r5x-eng
